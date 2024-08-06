@@ -1,4 +1,6 @@
-The demand for energy has sharply increased recently all around the world. In
+Final Year Capstone Project
+
+Summary: The demand for energy has sharply increased recently all around the world. In
 recent years, there has been a sharp rise in electricity use. The amount of
 electricity used is increasing as technology advances on a daily basis. The amount
 of electricity utilized in agricultural areas is rising along with it, making it
