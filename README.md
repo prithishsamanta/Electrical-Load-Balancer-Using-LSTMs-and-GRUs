@@ -14,4 +14,4 @@ data on the electricity demands of the farms. This data, LSTM, and GRU have all
 been used to try and address this issue. Deep learning algorithms that forecast
 future load requirements have been created. Additionally, we evaluated the
 effectiveness of the new models in comparison to the previous study's outdated
-models."# Electrical-Load-Balancer-Using-LSTMs-and-GRUs" 
+models.
